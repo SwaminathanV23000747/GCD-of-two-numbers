@@ -29,7 +29,8 @@ RegisterNumber: 23000747
    for i in range(1,smaller+1):
        if num1%i==0 and num2%i==0:
            gcdvalue=i
-   print("GCD of two numbers is: {}".format(gcdvalue))
+   print("GCD of two numbers is:
+{}".format(gcdvalue))
 
 ```
 
